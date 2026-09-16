@@ -36,7 +36,7 @@ O documento final sai em Markdown, pronto pra colar no Jira, Confluence, Notion 
 Quero um charter de teste exploratório para o cadastro de novos usuários,
 nível de risco alto, sessão de 90 minutos.
 ```
-Veja um charter completo gerado pela skill em [charter-transferencia-pix.md](exemplos/charter-transferencia-pix.md).
+Veja um charter completo gerado pela skill em [charter-transferencia-pix.md](charter-transferencia-pix.md).
 ## Sobre
 
 Skill criada para a comunidade de QA, com foco em agilizar o planejamento de sessões exploratórias sem perder profundidade na análise de risco.
